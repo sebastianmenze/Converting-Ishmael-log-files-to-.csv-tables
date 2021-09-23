@@ -20,7 +20,7 @@ StartFile: inputFile='D:\msc_project\Orkney2_data\2017\04_2017\170412_224000_AU_
 Humpback
 ```
 
-For each of the logged sound files, any label that was added by the analyst is appended behind the filename and time of the edit.  What we instead is a table with time in one column and the presence (1) or absence (0) of different call types (labels) as additional columns, such as this example:
+For each of the logged sound files, any label that was added by the analyst is appended behind the filename and time of the edit.  What we want instead is a table with time in one column and the presence (1) or absence (0) of different call types (labels) as additional columns, such as this example:
 
 | Time|Fin|Baleen|100-200Hz Upsweeps|Humpback|Minke|Check|40-Fin|Odontocetes|100-30Hz|Southern Rigth Whale|
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
